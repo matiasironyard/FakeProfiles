@@ -1,0 +1,207 @@
+ 
+{
+  "ProjectList": [
+    {
+      "ProjectId": 1691615921,
+      "ProjectName": "York Comprehensive High School",
+      "Caption": null,
+      "Method": null,
+      "DateInstalled": "2017-09-19T00:00:00",
+      "CaseStudyDesc": "Imagine three individual schools in one district \u2013 each representing a community and a body of students \u2013 and combining them into one. That\u2019s the challenge the York County School District faced when it chose to consolidate the area\u2019s three high schools. The end result is York Comprehensive High School, a new two-story, 360,000-square foot high school and technology center - and the only school housing grades 9 through 12 in the district. ",
+      "ProjectStatus": null,
+      "Companies": [
+        {
+          "CompanyId": 969,
+          "CompanyName": "York Comprehensive High School",
+          "City": "York",
+          "State": "South Carolina",
+          "Country": "USA",
+          "Url": "https://www.york.k12.sc.us/ych",
+          "IsDesignFirm": false,
+          "IsPreferredPartner": null
+        },
+        {
+          "CompanyId": 929,
+          "CompanyName": "LS3P",
+          "City": "York",
+          "State": "South Carolina",
+          "Country": "USA",
+          "Url": "http://www.ls3p.com",
+          "IsDesignFirm": true,
+          "IsPreferredPartner": null
+        }
+      ],
+      "Regions": [
+        {
+          "RegionId": 76,
+          "RegionName": "Americas"
+        },
+        {
+          "RegionId": 75,
+          "RegionName": "Africa/Middle East"
+        }
+      ],
+      "Markets": [
+        {
+          "MarketId": 73,
+          "MarketName": "Contract",
+          "Segments": [
+            {
+              "SegmentId": 16,
+              "SegmentName": "Education"
+            }
+          ]
+        }
+      ],
+      "Resources": [
+        {
+          "ResourceId": 38,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/CD/E7/York-High-School-band-room_t.jpg?v=2017.11.08.13.39.29",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/3E/BC/York-High-School-band-room_m.jpg?v=2017.11.08.13.39.29",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/DD/75/York-High-School-band-room_L.jpg?v=2017.11.08.13.39.29",
+          "Url": "",
+          "Sequence": 2,
+          "IsCaseStudy": false,
+          "Products": [
+            {
+              "ProductId": 14691,
+              "ProductName": "",
+              "CollectionName": "STIMULUS",
+              "CollectionId": 155,
+              "DesignName": "Blip",
+              "ColorName": "105 Red Light",
+              "ColorId": 10680,
+              "Url": "https://fccatalogblob.milliken.com/fccatalogblob/images/2F/CA/6565-105t.jpg?v=2017.02.11.08.06.02",
+              "IsCustom": false,
+              "PrimaryColorReferenceId": "0",
+              "ProductTypeId": "106"
+            }
+          ]
+        },
+        {
+          "ResourceId": 39,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/03/61/York-High-School-classroom_t.jpg?v=2017.11.08.13.39.29",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/75/8D/York-High-School-classroom_m.jpg?v=2017.11.08.13.39.29",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/50/3C/York-High-School-classroom_L.jpg?v=2017.11.08.13.39.29",
+          "Url": "",
+          "Sequence": 3,
+          "IsCaseStudy": false,
+          "Products": []
+        },
+        {
+          "ResourceId": 40,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/E7/15/York-High-School-computer-lab_t.jpg?v=2017.11.08.13.39.28",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/93/AE/York-High-School-computer-lab_m.jpg?v=2017.11.08.13.39.28",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/A7/70/York-High-School-computer-lab_L.jpg?v=2017.11.08.13.39.29",
+          "Url": "",
+          "Sequence": 4,
+          "IsCaseStudy": false,
+          "Products": [
+            {
+              "ProductId": 15946,
+              "ProductName": "",
+              "CollectionName": "THEORY",
+              "CollectionId": 169,
+              "DesignName": "Eureka",
+              "ColorName": "602 Indigo",
+              "ColorId": 11715,
+              "Url": "https://fccatalogblob.milliken.com/fccatalogblob/images/12/58/6387-602t.jpg?v=2017.02.11.07.59.56",
+              "IsCustom": false,
+              "PrimaryColorReferenceId": "0",
+              "ProductTypeId": "106"
+            }
+          ]
+        },
+        {
+          "ResourceId": 41,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/C4/C6/York-High-School-hallway_t.jpg?v=2017.11.08.13.39.28",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/3D/31/York-High-School-hallway_m.jpg?v=2017.11.08.13.39.28",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/6C/A6/York-High-School-hallway_L.jpg?v=2017.11.08.13.39.28",
+          "Url": "",
+          "Sequence": 5,
+          "IsCaseStudy": false,
+          "Products": []
+        },
+        {
+          "ResourceId": 42,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/27/B0/York-High-School-media-center_t.jpg?v=2017.11.08.13.39.27",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/D0/3F/York-High-School-media-center_m.jpg?v=2017.11.08.13.39.27",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/B7/23/York-High-School-media-center_L.jpg?v=2017.11.08.13.39.27",
+          "Url": "",
+          "Sequence": 6,
+          "IsCaseStudy": false,
+          "Products": [
+            {
+              "ProductId": 14796,
+              "ProductName": "",
+              "CollectionName": "THEORY 2.0",
+              "CollectionId": 134,
+              "DesignName": "Blip 2.0 - Modular",
+              "ColorName": "BLP138 - 52 - 108 - 119 - Indie - Periwinkle",
+              "ColorId": 10784,
+              "Url": "https://fccatalogblob.milliken.com/fccatalogblob/images/C8/27/BLP138_52_108_119t.jpg?v=2017.02.11.09.54.43",
+              "IsCustom": false,
+              "PrimaryColorReferenceId": "119",
+              "ProductTypeId": "106"
+            },
+            {
+              "ProductId": 15332,
+              "ProductName": "",
+              "CollectionName": "THEORY 2.0",
+              "CollectionId": 134,
+              "DesignName": "More Blip - Modular",
+              "ColorName": "MBL138 - 52 - 108 - 119 - Indie - Periwinkle",
+              "ColorId": 11263,
+              "Url": "https://fccatalogblob.milliken.com/fccatalogblob/images/2E/87/MBL138_52_108_119t.jpg?v=2017.02.11.10.09.19",
+              "IsCustom": false,
+              "PrimaryColorReferenceId": "119",
+              "ProductTypeId": "106"
+            }
+          ]
+        },
+        {
+          "ResourceId": 43,
+          "ResourceType": "Image",
+          "ThumbnailUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/9B/06/York-High-School-band-room_banner_t.jpg?v=2017.11.08.13.39.29",
+          "MediumUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/B2/CF/York-High-School-band-room_banner_m.jpg?v=2017.11.08.13.39.29",
+          "LargeUrl": "https://fcprojectprofilesblob.milliken.com/fcprojectprofiles/images/F8/09/York-High-School-band-room_banner_L.jpg?v=2017.11.08.15.09.18",
+          "Url": "",
+          "Sequence": 1,
+          "IsCaseStudy": false,
+          "Products": []
+        },
+        {
+          "ResourceId": 44,
+          "ResourceType": "Document",
+          "ThumbnailUrl": "",
+          "MediumUrl": "",
+          "LargeUrl": "",
+          "Url": "https://fccatalogblob.milliken.com/fccatalogblob/documents/DC/29/York_Comprehensive_High_School-CaseStudy.pdf?v=2017.11.08.16.30.03",
+          "Sequence": 1,
+          "IsCaseStudy": true,
+          "Products": []
+        }
+      ],
+      "ProjectRegions": [
+        76,
+        75
+      ],
+      "Collections": [
+        155,
+        169,
+        134
+      ],
+      "Colors": [
+        10680,
+        11715,
+        10784,
+        11263
+      ]
+    }
+  ]
+}
